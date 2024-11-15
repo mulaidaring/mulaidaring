@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mulaidaring
-- 🌱 Ngoding sesuka hati, atau sekedar ingin belajar dan ingin tahu dunia percodingan saat ini
+- 🌱 Hanya ingin ngoding aja :)
 - Happy Coding ☕
 
 <!---
